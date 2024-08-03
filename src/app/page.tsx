@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <h1>Base</h1>
-      <Button variant={"destructive"}>Teste</Button>
+      <Button>Teste</Button>
     </>
   )
 }
